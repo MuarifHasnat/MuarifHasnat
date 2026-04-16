@@ -1,4 +1,4 @@
-## Hi there 👋
+🎓 B.Sc. Eng. in CSE @ BAUST, Saidpur | Level 3, Term 1 | Passionate about algorithms & clean coding
 
 <!--
 **MuarifHasnat/MuarifHasnat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
