@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://profile-counter.glitch.me/MuarifHasnat/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=MuarifHasnat&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
   <br><br>
 
   <h1>Hi there, I'm Muarif Hasnat! 👋</h1>
@@ -7,8 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=B.Sc.+Eng.+in+CSE+@+BAUST;Android+App+Developer;Passionate+about+Algorithms;Clean+Code+Enthusiast" alt="Typing SVG" />
   <br><br>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=MuarifHasnat&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  <br><br>
+ 
 
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -46,10 +45,10 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuarifHasnat&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MuarifHasnat&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=MuarifHasnat&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuarifHasnat&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuarifHasnat&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
 </div>
 
 ---
