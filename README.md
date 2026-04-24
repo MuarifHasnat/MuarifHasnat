@@ -1,57 +1,51 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MuarifHasnat&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
-  <br><br>
-
-  <h1>Hi there, I'm Muarif Hasnat! 👋</h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Muarif%20Hasnat&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=B.Sc.%20Engineering%20Student%20|%20Android%20Developer&descAlignY=60&descSize=20" alt="Header Banner" />
+  
+  <br>
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=B.Sc.+Eng.+in+CSE+@+BAUST;Android+App+Developer;Passionate+about+Algorithms;Clean+Code+Enthusiast" alt="Typing SVG" />
   <br><br>
 
- 
-
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/your-linkedin-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/MuarifHasnat">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
----
+<br>
 
 ### 👨‍💻 About Me
 
-- 🎓 **Education:** B.Sc. Engineering in CSE at **BAUST, Saidpur** (Level 3, Term 1).
-- 🚀 **Current Project:** Building a fresh, ground-up implementation of an **Equipment Borrowing System** for Android using Kotlin.
-- 🌱 **Learning Focus:** Low-level programming with **8086 Assembly**, **Compiler Design** (eliminating left recursion!), and **Computer Networking** (OSI Model).
-- 💡 **Interests:** Hardware-software integration (Arduino/Microcontrollers) and Algorithm Design.
-- ⚡ **Fun Fact:** I can seamlessly switch between designing high-level UI in Figma and writing low-level MS-DOS interrupts!
+A passionate Computer Science Engineering student currently navigating through Level 3, Term 1. I focus on writing clean code and building real-world applications without unnecessary complexity.
+
+- 🚀 **Currently Engineering:** A fresh implementation of an **Equipment Borrowing System** for Android (Kotlin + Incremental Model Architecture).
+- 🧠 **Currently Mastering:** **Compiler Design** (Context-Free Grammars) & **8086 Assembly Language** (MS-DOS interrupts).
+- 🌐 **Deep Diving into:** **Computer Networking** protocols and the OSI Model.
+- ⚡ **Fun Fact:** I can smoothly transition from designing high-level UI in Figma to debugging low-level hardware constraints on an Arduino!
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,cpp,androidstudio,figma,arduino,github,git" alt="Tech Stack Icons" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Analytics
+### 🛠️ Technical Skills
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuarifHasnat&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=MuarifHasnat&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuarifHasnat&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,java,cpp,c,asm,androidstudio,figma,arduino,git,github" alt="Tech Stack" />
+  </a>
 </div>
 
 ---
-<p align="center">
-  <i>Let's connect and build something awesome together!</i>
-</p>
+
+### 📊 Real GitHub Analytics
+
+<table align="center" style="border: none; background-color: transparent;">
+  <tr style="border: none; background-color: transparent;">
+    <td width="50%" align="center" style="border: none; background-color: transparent;">
+      <img src="https://github-readme-stats.vercel.app/api?username=MuarifHasnat&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center" style="border: none; background-color: transparent;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuarifHasnat&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
