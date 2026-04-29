@@ -54,7 +54,7 @@ I am currently in **Level 3, Term 1** of my B.Sc. in Computer Science Engineerin
 
 <div align="center">
   <b>Let's Connect & Collaborate!</b><br><br>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto: mhrakib20025@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/your-linkedin-profile">
