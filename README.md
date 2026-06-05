@@ -40,9 +40,19 @@ My development philosophy revolves around clean coding principles and bridging t
 ### 📊 My GitHub Activity
 
 <div align="center">
-  <img src="https://readme-stats.rishavanand.com/api?username=MuarifHasnat&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://readme-stats.rishavanand.com/api/top-langs/?username=MuarifHasnat&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <!-- Reverted to the Official Stable API without heavy parameters -->
+  <img src="https://github-readme-stats.vercel.app/api?username=MuarifHasnat&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuarifHasnat&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </div>
+
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=MuarifHasnat&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuarifHasnat&theme=tokyo-night" alt="Activity Graph" />
+</div>
+
 
 <br>
 
