@@ -41,24 +41,14 @@ My development philosophy revolves around clean coding principles and bridging t
 ### 📊 My GitHub Activity
 
 <div align="center">
-  <!-- Added &v=1 to bypass GitHub's image cache -->
-  <img src="https://github-readme-stats.vercel.app/api?username=MuarifHasnat&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuarifHasnat&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Languages" width="48%" />
+  <!-- GitHub Stats based on all your repositories (Public + Private Commits) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=MuarifHasnat&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuarifHasnat&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=MuarifHasnat&theme=tokyonight&hide_border=true&v=1" alt="Streak Stats" />
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuarifHasnat&theme=tokyo-night&v=1" alt="Activity Graph" />
-</div>
-
-
-<br>
-
-<div align="center">
-  <!-- Fixed: Updated streak stats domain to demolab for better reliability -->
   <img src="https://streak-stats.demolab.com/?user=MuarifHasnat&theme=tokyonight&hide_border=true" alt="Streak Stats" />
   <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuarifHasnat&theme=tokyo-night" alt="Activity Graph" />
