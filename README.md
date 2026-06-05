@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=B.Sc.+Eng.+in+CSE+@+BAUST;Android+App+Developer;System+Architecture+Enthusiast;Clean+Code+Advocate" alt="Typing SVG" />
   <br><br>
 
-  <!-- Domain Badges -->
   <img src="https://img.shields.io/badge/Domain-Android_Development-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android Dev" />
   <img src="https://img.shields.io/badge/Domain-System_Architecture-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="System Arch" />
   <img src="https://img.shields.io/badge/Domain-Embedded_Systems-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Embedded" />
@@ -41,9 +40,8 @@ My development philosophy revolves around clean coding principles and bridging t
 ### 📊 My GitHub Activity
 
 <div align="center">
-  <!-- GitHub Stats based on all your repositories (Public + Private Commits) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=MuarifHasnat&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuarifHasnat&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://readme-stats.rishavanand.com/api?username=MuarifHasnat&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://readme-stats.rishavanand.com/api/top-langs/?username=MuarifHasnat&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
 <br>
