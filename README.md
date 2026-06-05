@@ -40,19 +40,17 @@ My development philosophy revolves around clean coding principles and bridging t
 
 ### 📊 My GitHub Activity
 
-<table align="center" style="border: none; background-color: transparent;">
-  <tr style="border: none; background-color: transparent;">
-    <td width="50%" align="center" style="border: none; background-color: transparent;">
-      <img src="https://github-readme-stats.vercel.app/api?username=MuarifHasnat&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
-    </td>
-    <td width="50%" align="center" style="border: none; background-color: transparent;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuarifHasnat&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <!-- Fixed: Removed unstable HTML tables, used width % for side-by-side alignment -->
+  <img src="https://github-readme-stats.vercel.app/api?username=MuarifHasnat&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuarifHasnat&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</div>
+
+<br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuarifHasnat&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <!-- Fixed: Updated streak stats domain to demolab for better reliability -->
+  <img src="https://streak-stats.demolab.com/?user=MuarifHasnat&theme=tokyonight&hide_border=true" alt="Streak Stats" />
   <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuarifHasnat&theme=tokyo-night" alt="Activity Graph" />
 </div>
